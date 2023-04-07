@@ -14,7 +14,7 @@
     justify-content: flex-start;
 }
 
-.colmn {
+.column {
     flex-direction: column;
     justify-content: flex-start;
 }
